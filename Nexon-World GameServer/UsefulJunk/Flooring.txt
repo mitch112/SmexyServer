@@ -1,0 +1,117 @@
+
+		ObjectManager.addCustomObject(32231,3164, 3498, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3497, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3496, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3495, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3494, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3493, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3492, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3487, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3486, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3485, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3484, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3483, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3482, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3164, 3481, 2 , 10, 0, false);
+		
+		ObjectManager.addCustomObject(32231,3165, 3498, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3497, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3496, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3495, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3494, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3493, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3492, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3487, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3486, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3485, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3484, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3483, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3482, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3165, 3481, 2 , 10, 0, false);
+	
+		ObjectManager.addCustomObject(32231,3166, 3498, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3497, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3496, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3495, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3494, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3493, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3492, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3487, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3486, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3485, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3484, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3483, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3482, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3166, 3481, 2 , 10, 0, false);
+		
+		ObjectManager.addCustomObject(32231,3167, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3168, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3169, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3170, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3171, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3172, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3173, 3491, 2 , 10, 0, false);
+		
+		ObjectManager.addCustomObject(32231,3167, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3168, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3169, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3170, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3171, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3172, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3173, 3490, 2 , 10, 0, false);
+		
+		ObjectManager.addCustomObject(32231,3167, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3168, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3169, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3170, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3171, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3172, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3173, 3489, 2 , 10, 0, false);
+
+		ObjectManager.addCustomObject(32231,3167, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3168, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3169, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3170, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3171, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3172, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3173, 3488, 2 , 10, 0, false);
+	
+		ObjectManager.addCustomObject(32231,3156, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3157, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3158, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3159, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3160, 3488, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3161, 3488, 2 , 10, 0, false);
+
+		ObjectManager.addCustomObject(32231,3156, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3157, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3158, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3159, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3160, 3489, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3161, 3489, 2 , 10, 0, false);
+
+		ObjectManager.addCustomObject(32231,3156, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3157, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3158, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3159, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3160, 3490, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3161, 3490, 2 , 10, 0, false);
+
+		ObjectManager.addCustomObject(32231,3156, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3157, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3158, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3159, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3160, 3491, 2 , 10, 0, false);
+		ObjectManager.addCustomObject(32231,3161, 3491, 2 , 10, 0, false);

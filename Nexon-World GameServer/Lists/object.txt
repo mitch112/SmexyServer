@@ -1,0 +1,5 @@
+				else if (id == 4277)
+					player.sendMessage("You successfully thieve from the stall"); //message can change
+					player.addStopDelay(4); //delay so it don't auto thieve rapidly & people autoclick
+					player.getInventory().addItem(995, 1270); //The amount of GP it gives.
+					player.getSkills().addXp(17, 100); //the exp multiplyer that it gives.

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="NDE/src"/>
+	<classpathentry excluding="org/dementhium/content/skills/dungeoneering/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/org/dementhium/content/skills/dungeoneering"/>
+	<classpathentry kind="lib" path="lib/mysql-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="lib/mysql.jar"/>
+	<classpathentry kind="lib" path="lib/netty.jar"/>
+	<classpathentry kind="lib" path="lib/upnp.jar"/>
+	<classpathentry kind="lib" path="lib/xpp.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3-1.1.3.4.C.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/xstream.jar"/>
+	<classpathentry kind="lib" path="NDE/dist/lib/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="NDE/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="NDE/dist/lib/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="NDE/dist/NDE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
