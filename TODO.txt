@@ -1,0 +1,19 @@
+NEEDS TO BE DONE ||
+                 \/
+
+- Fix client memory usage
+- Change home & Donator locations
+- Add donator dungeon
+- Revamp drops & drop system
+- Revamp economy
+- Wiki
+- Webclient
+- Automated donation
+- Boss fixes & Stat updates
+
+
+MAYBE:
+- Lottery
+- Custom Items
+
+
