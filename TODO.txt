@@ -10,6 +10,7 @@ NEEDS TO BE DONE ||
 - Webclient
 - Automated donation
 - Boss fixes & Stat updates
+- Donator commands
 
 
 MAYBE:
