@@ -313,12 +313,12 @@ public class ObjectPacketHandler extends PacketHandler {
 			case 42611:
 				
 				if (player.getDonator() == 0) {
-				player.sendMessage("You must be a Nexon-World Donator to go in.");
+				player.sendMessage("You must be a Smexy Donator to go in.");
 				}
 					if (player.getDonator() == 1) {
 				TeleportHandler.telePlayer(player, 3209, 9247, 0, 0, 2, true);
 				Graphic.create(2011);
-				player.sendMessage("Welcome to Nexon-World donatorzone.");
+				player.sendMessage("Welcome to Smexy donatorzone.");
 					}		
 				
 				break;

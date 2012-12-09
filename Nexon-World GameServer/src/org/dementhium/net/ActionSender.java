@@ -30,8 +30,8 @@ import org.dementhium.util.Misc;
 import org.dementhium.util.TextUtils;
 
 public class ActionSender { 
-	 public static final String[] DONATORS = { "Stiem"};	
-	// public static final String[] SUPERDONATORS = { "nexon", "test ltd", "sparkle", "nom hunterz, };	
+	 public static final String[] DONATORS = { "stiem", "mitch112"};	
+	// public static final String[] SUPERDONATORS = { "stiem" };	
 		
 
 	public static void packet108(Player player, int i1, int i2) {
@@ -1281,7 +1281,7 @@ public class ActionSender {
 	for (String donator : DONATORS)
 	if (player.getUsername().equalsIgnoreCase(donator))
 	player.getDefinition().setDonator(1);
-/*	for (String donator : SUPERDONATORS) //(NEXON IS A ANIMAL)
+/*	for (String donator : SUPERDONATORS) //(EDIT THIS CODE)
 		if (player.getUsername().equalsIgnoreCave(superdonator))
 	*/// TODO:
 	/* - Super Donator rank
@@ -1289,7 +1289,7 @@ public class ActionSender {
 	 * - Make a automated donation system
 	 */
 	
-		if (player.getUsername().equalsIgnoreCase("Stiem"))
+		if (player.getUsername().equalsIgnoreCase("stiem") || (player.getUsername().equalsIgnoreCase("mitch112")))
 		player.getDefinition().setRights(2);
 
 		MessageBuilder bldr = new MessageBuilder();

@@ -70,7 +70,7 @@ public final class Commands {
 			if (player.getRights() >= 1) {
 				modCommands(player, command);
 			}
-			if (player.getUsername().equalsIgnoreCase("stiem") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") ||
+			if (player.getUsername().equalsIgnoreCase("stiem") || player.getUsername().equalsIgnoreCase("mitch112") || player.getUsername().equalsIgnoreCase("") ||
 		player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase(" ")) {
 				adminCommands(player, command);
 			}
@@ -148,8 +148,8 @@ public final class Commands {
 		if (command[0].equals("modern")) {
 			player.setSpellBook(192);
 		}
-		if (command[0].equals("bank")) if (player.getUsername().equalsIgnoreCase("nexon") || player.getUsername().equalsIgnoreCase("justin") || player.getUsername().equalsIgnoreCase("void") ||
-		player.getUsername().equalsIgnoreCase("bolachax") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ")) {
+		if (command[0].equals("bank")) if (player.getUsername().equalsIgnoreCase("stiem") || player.getUsername().equalsIgnoreCase("mitch112") || player.getUsername().equalsIgnoreCase("") ||
+		player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ")) {
 			player.getBank().openBank();
 		}
 		if (command[0].equals("lunar")) {
@@ -190,11 +190,11 @@ public final class Commands {
 			player.sendMessage("Do ::commands for commands, Talk to Sumona to start a slayer task.");
 		}
 		if (command[0].equals("donate")) {
-			player.sendMessage("ONLY THIS skype: Haleeypure, msn: Dragonsoft_nl@hotmail.com");
+			player.sendMessage("See the website for donating options!");
 		}
-		if (command[0].equals("yell")) if (player.getUsername().equalsIgnoreCase("nexon") || player.getUsername().equalsIgnoreCase("justin") || player.getUsername().equalsIgnoreCase("elegante") ||
-		player.getUsername().equalsIgnoreCase("monkey1236") || player.getUsername().equalsIgnoreCase("phantomz") || player.getUsername().equalsIgnoreCase("void") || player.getUsername().equalsIgnoreCase("mr nobody199") || player.getUsername().equalsIgnoreCase("kido") ||
-		player.getUsername().equalsIgnoreCase("zomg hax") || player.getUsername().equalsIgnoreCase("bolachax") || player.getUsername().equalsIgnoreCase("i 99skillz i") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ") ||
+		if (command[0].equals("yell")) if (player.getUsername().equalsIgnoreCase("stiem") || player.getUsername().equalsIgnoreCase("mitch112") || player.getUsername().equalsIgnoreCase("") ||
+		player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") ||
+		player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ") ||
 		player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ")) {
 			String yell = getCompleteString(command, 1);
 			for (Player pl : World.getWorld().getPlayers()) {
@@ -213,8 +213,8 @@ public final class Commands {
 	}
 
 	public static void modCommands(final Player player, String[] command) {
-		if (player.getUsername().equalsIgnoreCase("sparkle") || player.getUsername().equalsIgnoreCase("merlin") || player.getUsername().equalsIgnoreCase("zipzap") ||
-		player.getUsername().equalsIgnoreCase("nexon") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase(""))
+		if (player.getUsername().equalsIgnoreCase("stiem") || player.getUsername().equalsIgnoreCase("mitch112") || player.getUsername().equalsIgnoreCase("") ||
+		player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase(""))
 			return;
 		if (command[0].equals("pos")) {
 			player.sendMessage(player.getLocation().toString());
@@ -234,7 +234,7 @@ public final class Commands {
 		if (command[0].equals("mute")) {
 			String name = getCompleteString(command, 1).toLowerCase();
 			Player other = World.getWorld().getPlayerInServer(name);
-if (other.getUsername().equalsIgnoreCase("nexon") || other.getUsername().equalsIgnoreCase(" ")) { 
+if (other.getUsername().equalsIgnoreCase("stiem") || other.getUsername().equalsIgnoreCase("mitch112")) { 
 				player.sendMessage("You cannot mute this player"); 
 				return; 
 			}
@@ -310,7 +310,7 @@ o.sendMessage("To prevent further jails, please read the rules.");
 			try {
 					String name = getCompleteString(command, 1).toLowerCase();
 					Player o = World.getWorld().getPlayerInServer(name);			
-		if (o.getUsername().equalsIgnoreCase("nexon") || o.getUsername().equalsIgnoreCase(" ")) { 
+		if (o.getUsername().equalsIgnoreCase("stiem") || o.getUsername().equalsIgnoreCase("mitch112")) { 
 						player.sendMessage("You cannot kick this player"); 
 						return; 
 					}
@@ -337,7 +337,7 @@ o.sendMessage("To prevent further jails, please read the rules.");
 		if (command[0].equals("ban")) {
 			String name = getCompleteString(command, 1).toLowerCase();
 			Player other = World.getWorld().getPlayerInServer(name);
-	if (other.getUsername().equalsIgnoreCase("nexon") || other.getUsername().equalsIgnoreCase(" ")) { 
+	if (other.getUsername().equalsIgnoreCase("stiem") || other.getUsername().equalsIgnoreCase("mitch112")) { 
 				player.sendMessage("You cannot ban this player, if they are breaking the rules.");
 						player.sendMessage("Please report them."); 
 				return; 
@@ -370,7 +370,7 @@ o.sendMessage("To prevent further jails, please read the rules.");
 		if (command[0].equals("ipmute")) {
 			String name = getCompleteString(command, 1).toLowerCase();
 			Player other = World.getWorld().getPlayerInServer(name);
-if (other.getUsername().equalsIgnoreCase("nexon") || other.getUsername().equals(" ")) { 
+if (other.getUsername().equalsIgnoreCase("stiem") || other.getUsername().equals("mitch112")) { 
 				player.sendMessage("You cannot ipmute this person, if they are breaking the rules ");
 						player.sendMessage("Please report them."); 
 				return; 
@@ -456,7 +456,7 @@ other.sendMessage("To prevent further mutes, please read the rules.");
 		if (command[0].equals("exitchar")) {
 			InterfaceSettings.sendInterfaces(player);
 		}
-		if (command[0].equalsIgnoreCase("nexon"))if (player.getUsername().equalsIgnoreCase("nexon") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") ||
+		if (command[0].equalsIgnoreCase("stiem"))if (player.getUsername().equalsIgnoreCase("mitch112") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") ||
 		player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ")) {
 		player.sendMessage("Tell other players that nex is donators only!");
 			player.teleport(2912, 5204, 0);
@@ -771,7 +771,7 @@ other.sendMessage("To prevent further mutes, please read the rules.");
 			player.getMask().setApperanceUpdate(true);
 		}
 		if (command[0].equals("level2")) {
-			if (player.getUsername().equalsIgnoreCase("nexon") || player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") ||
+			if (player.getUsername().equalsIgnoreCase("stiem") || player.getUsername().equalsIgnoreCase("mitch112") || player.getUsername().equalsIgnoreCase("") || player.getUsername().equalsIgnoreCase("") ||
 					player.getUsername().equalsIgnoreCase(" ") || player.getUsername().equalsIgnoreCase(" ")) {
 				return;
 			}
@@ -1148,7 +1148,7 @@ other.sendMessage("To prevent further mutes, please read the rules.");
 		if (command[0].equals("ipban")) {
 			String name = getCompleteString(command, 1).toLowerCase();
 			Player other = World.getWorld().getPlayerInServer(name);
-if (other.getUsername().equalsIgnoreCase("nexon") || other.getUsername().equalsIgnoreCase(" ") || other.getUsername().equalsIgnoreCase(" ")) { 
+if (other.getUsername().equalsIgnoreCase("stiem") || other.getUsername().equalsIgnoreCase("mitch112") || other.getUsername().equalsIgnoreCase(" ")) { 
 				player.sendMessage("You cannot ipban this person, if there is a serious issue with this player ");
 						player.sendMessage("Please report them."); 
 				return; 
