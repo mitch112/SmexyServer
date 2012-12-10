@@ -11,6 +11,10 @@ NEEDS TO BE DONE ||
 - Automated donation
 - Boss fixes & Stat updates
 - Donator commands
+- Website
+- Shops
+- Dungeoneering
+- Summoning
 
 
 MAYBE:
